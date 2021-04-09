@@ -1,21 +1,4 @@
 
-// function sayHello(name) {
-//     console.log("Hello " + name );
-// }
+const logger = require("./logger");
 
-// sayHello("Kris");
-
-console.log(); // global
-
-setTimeout()
-clearTimeout()
-
-setInterval()
-clearInterval()
-
-window.console.log
-
-var message = '';
-global.
-
-
+logger.log("message");
